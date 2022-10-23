@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Kushagra-portfolio/static/css/main.7225084b.css",
+    "main.js": "/Kushagra-portfolio/static/js/main.e772beea.js",
+    "static/js/787.3c86a6c9.chunk.js": "/Kushagra-portfolio/static/js/787.3c86a6c9.chunk.js",
+    "static/media/hero.png": "/Kushagra-portfolio/static/media/hero.3046048123d35fde0d6e.png",
+    "static/media/contact1.png": "/Kushagra-portfolio/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/skill1.png": "/Kushagra-portfolio/static/media/skill1.581289b9c91fd811832c.png",
+    "index.html": "/Kushagra-portfolio/index.html",
+    "main.7225084b.css.map": "/Kushagra-portfolio/static/css/main.7225084b.css.map",
+    "main.e772beea.js.map": "/Kushagra-portfolio/static/js/main.e772beea.js.map",
+    "787.3c86a6c9.chunk.js.map": "/Kushagra-portfolio/static/js/787.3c86a6c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7225084b.css",
+    "static/js/main.e772beea.js"
+  ]
+}
